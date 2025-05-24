@@ -2,7 +2,7 @@
 import 'package:flutter/material.dart';
 import 'package:mvvm_architecture/presentation/resources/color_manager.dart';
 import 'package:mvvm_architecture/presentation/resources/font_manager.dart';
-import 'package:mvvm_architecture/presentation/resources/styke_manager.dart';
+import 'package:mvvm_architecture/presentation/resources/style_manager.dart';
 import 'package:mvvm_architecture/presentation/resources/values_manager.dart';
 
 ThemeData getApplicationTheme() {
